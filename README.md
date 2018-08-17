@@ -22,6 +22,8 @@
                   <a class="nav-link" href="#" onclick="semFuncionalidade()">Atividade 2</a>
                 </li>
                 <li class="nav-item">
+                  <a class="nav-link" onClick="semFuncionalidade()">Atividade 3</a>
+                <li class="nav-item">
                   <a class="nav-link disabled" href="#" onclick="semFuncionalidade()">Disabled</a>
                 </li>
               </ul>
