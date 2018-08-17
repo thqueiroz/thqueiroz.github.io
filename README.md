@@ -1,5 +1,4 @@
 # Tiago Henrique Queiroz
-<!DOCTYPE html>
 <html lang="pt-br">
   <head>
     <!-- Meta tags Obrigatórias -->
@@ -17,7 +16,7 @@
                   <a class="nav-link active">Bem-Vindo!</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="C:\Users\djtia\Desktop\HTML5\Curriculo.html" >Currículo Pessoal</a>
+                  <a class="nav-link" href="Curriculo.html" >Currículo Pessoal</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#" onclick="semFuncionalidade()">Curiosidades</a>
