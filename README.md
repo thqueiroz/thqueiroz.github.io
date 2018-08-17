@@ -16,10 +16,10 @@
                   <a class="nav-link active">Bem-Vindo!</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="Curriculo.html" >Currículo Pessoal</a>
+                  <a class="nav-link" href="Curriculo.html">Atividade 1</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#" onclick="semFuncionalidade()">Curiosidades</a>
+                  <a class="nav-link" href="#" onclick="semFuncionalidade()">Atividade 2</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link disabled" href="#" onclick="semFuncionalidade()">Disabled</a>
