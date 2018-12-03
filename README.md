@@ -28,6 +28,9 @@
                   <a class="nav-link" href="Mapa.html">Atividade 4</a>
                 </li> 
                 <li class="nav-item">
+                  <a class="nav-link" href="youtube.html">Atividade 8</a>
+                </li> 
+                <li class="nav-item">
                   <a class="nav-link" href="persistencia.html">Atividade 8</a>
                 </li>  
                 <li class="nav-item">
